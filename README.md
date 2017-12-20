@@ -1,8 +1,6 @@
 # Website for FragDenStaat Mobile App
 
-<https://app.fragdenstaat.de>
-
-Built with [brunch](http://brunch.io) and the Skeleton [brunch-on-speed](https://github.com/jfilter/brunch-on-speed).
+<https://app.fragdenstaat.de>, built with [brunch](http://brunch.io) and the Skeleton [brunch-on-speed](https://github.com/jfilter/brunch-on-speed).
 
 ## Getting started with Brunch
 
@@ -15,5 +13,5 @@ Built with [brunch](http://brunch.io) and the Skeleton [brunch-on-speed](https:/
     * `npm run build` — builds minified project for production
 * Learn:
     * `docs/` dir is fully auto-generated and served by HTTP server.  Write your code in `app/` dir.
-    * Place static files you want to be copied from `app/assets/` to `public/`.
+    * Place static files you want to be copied from `app/assets/` to `docs/`.
     * [Brunch site](http://brunch.io), [Getting started guide](https://github.com/brunch/brunch-guide#readme)
