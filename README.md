@@ -1,6 +1,6 @@
 # Website for FragDenStaat Mobile App
 
-<https://app.fragdenstaat.de>, built with [brunch](http://brunch.io) and the Skeleton [brunch-on-speed](https://github.com/jfilter/brunch-on-speed).
+<http://app.fragdenstaat.de>, built with [brunch](http://brunch.io) and the Skeleton [brunch-on-speed](https://github.com/jfilter/brunch-on-speed).
 
 ## Getting started with Brunch
 
