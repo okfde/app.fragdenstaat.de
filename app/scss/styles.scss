@@ -1,0 +1,20 @@
+.downloads {
+  img {
+    width: 32%;
+  }
+
+  .appstore {
+    width: 25%;
+  }
+
+  @media screen and (max-width: 600px) {
+    img {
+      width: 100%;
+    }
+
+    .appstore {
+      width: 80%;
+      margin-left: 10%;
+    }
+  }
+}
